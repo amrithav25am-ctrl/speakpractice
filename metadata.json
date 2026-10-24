@@ -1,0 +1,6 @@
+{
+  "name": "SpeakSmart — AI Communication Coach",
+  "description": "Master interview skills, public speaking, and presentation confidence with real-time speech analysis, filler word tracking, and AI-powered personalized study plans.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
